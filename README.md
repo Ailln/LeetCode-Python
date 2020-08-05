@@ -4,9 +4,9 @@
 
 ## 索引
 
-| 序号 | 题目 | 难度 | 解答 |
-| :-: | :-: | :-: | :-: |
-| 1   | 两数之和 | 简单 | [two sum](/src/two_sum.md) |
+| 序号 | 题目 | 难度 | 我的解答 | 官方解答 |
+| :-: | :-: | :-: | :-: | :-: |
+| 1   | 两数之和 | 简单 | [two sum](/src/two_sum.md) | [two sum](https://leetcode-cn.com/problems/two-sum/solution/liang-shu-zhi-he-by-leetcode-2/) |
 
 ## 许可证
 
