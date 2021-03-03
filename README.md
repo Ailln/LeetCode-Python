@@ -6,7 +6,8 @@
 
 | 序号 | 题目 | 难度 | 我的解答 | 官方解答 |
 | :-: | :-: | :-: | :-: | :-: |
-| 1   | 两数之和 | 简单 | [two sum](/src/two_sum.md) | [two sum](https://leetcode-cn.com/problems/two-sum/solution/liang-shu-zhi-he-by-leetcode-2/) |
+| 1   | 两数之和 | 简单 | [link](/src/1-two-sum.md) | [link](https://leetcode-cn.com/problems/two-sum/solution/liang-shu-zhi-he-by-leetcode-solution/) |
+| 206   | 反转链表 | 简单 | [link](/src/206-reverse-linked-list.md) | [link](https://leetcode-cn.com/problems/reverse-linked-list/solution/fan-zhuan-lian-biao-by-leetcode/) |
 
 ## 许可证
 
